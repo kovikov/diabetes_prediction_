@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ebfbc296-07a9-4aab-a4a9-bae701fd2107)
 
 
 # Diabetes Prediction Project
